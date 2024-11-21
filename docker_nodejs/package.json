@@ -1,0 +1,7 @@
+{
+  "name": "docker_nodejs",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo 'docker_nodejs project started successfully!'"
+  }
+}
